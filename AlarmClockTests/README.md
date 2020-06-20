@@ -1,5 +1,3 @@
----
-
 # Project - Testing the "Alarms and clock" Application
 My tests could add new alarm with specific properties, switch on and off indicated alarm and drop indicated alarm.
 
@@ -28,4 +26,3 @@ This project is licensed under the MIT License.
 11. Checking the correctness of starting the "Alarms and clock" application (automated)
 12. Checking if the "Alarms and clock" application is shutting down correctly
 
----
