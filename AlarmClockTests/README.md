@@ -1,22 +1,21 @@
 ---
 
-# Projekt - Testowanie Aplikacji "Alarmy i zegar"
+# Design - Testing the "Alarms and clock" Application
 
-### Spis scenariuszy testowych
+### List of test scenarios
 
 
-1. Dodanie Alarmu z odpowiednimi parametrami w aplikacji "Alarmy i zegar" (zautomatyzowany)
-2. Edycja Alarmu z odpowiednimi parametrami w aplikacji "Alarmy i zegar"
-3. Usunięcie Alarmu w aplikacji "Alarmy i zegar" (zautomatyzowany)
-4. Włączenie/Wyłączenie Alarmu w aplikacji "Alarmy i zegar" (zautomatyzowany)
-5. Dodanie zegaru w aplikacji "Alarmy i zegar"
-6. Usunięcie zegaru w aplikacji "Alarmy i zegar"
-7. Dodanie minutnika w aplikacji "Alarmy i zegar"
-8. Usunięcie minutnika w aplikacji "Alarmy i zegar"
-9. Sprawdzenie pojawienia się powiadomienia minutnika w aplikacji "Alarmy i zegar"
-10. Sprawdzenie działania przycisków stopera w aplikacji "Alarmy i zegar"
-11. Sprawdzenie poprawności uruchamiania się aplikacji "Alarmy i zegar" (zautomatyzowany)
-12. Sprawdzenie poprawności wyłączania się aplikacji "Alarmy i zegar"
+1. Adding an Alarm with appropriate parameters in the "Alarms and clock" application (automated)
+2. Alarm edition with appropriate parameters in the "Alarms and clock" application
+3. Alarm removal in the "Alarms and clock" application (automated)
+4. Turning the Alarm On / Off in the "Alarms and Clock" application (automated)
+5. Adding a clock in the "Alarms and clock" application
+6. Clock removal in the "Alarms and clock" application
+7. Adding the timer in the "Alarms and clock" application
+8. Removing the timer in the "Alarms and clock" application
+9. Checking the appearance of the timer notification in the "Alarms and clock" application
+10. Checking the operation of the stopwatch buttons in the "Alarms and clock" application
+11. Checking the correctness of starting the "Alarms and clock" application (automated)
+12. Checking if the "Alarms and clock" application is shutting down correctly
 
 ---
-
