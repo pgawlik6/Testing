@@ -1,6 +1,6 @@
 ---
 
-# Design - Testing the "Alarms and clock" Application
+# Project - Testing the "Alarms and clock" Application
 
 ### List of test scenarios
 
