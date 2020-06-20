@@ -10,6 +10,12 @@ My tests could add new alarm with specific properties, switch on and off indicat
 ## License
 This project is licensed under the MIT License.
 
+
+
+
+
+
+
 ### List of test scenarios (in excel file, in polish language)
 
 
