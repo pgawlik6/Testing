@@ -1,8 +1,18 @@
 ---
 
 # Project - Testing the "Alarms and clock" Application
+My tests could add new alarm with specific properties, switch on and off indicated alarm and drop indicated alarm.
 
-### List of test scenarios
+## Languages
+* C#
+
+## Libraries / Frameworks
+* Selenium Appium
+
+## License
+This project is licensed under the MIT License.
+
+### List of test scenarios (in excel file, in polish language)
 
 
 1. Adding an Alarm with appropriate parameters in the "Alarms and clock" application (automated)
